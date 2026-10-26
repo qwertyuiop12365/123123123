@@ -1,9 +1,4 @@
-﻿//char c = 'A';
-//Console.WriteLine((int)c);
-//for  (int i = 60; i < 100; i++)
-//    Console.Write((char)i + " ");
-//Console.WriteLine(char.IsDigit('2'));
-//Console.WriteLine(char.IsLetter('x'));
+﻿//вариант 13 базовый уровень
 char[] mas = new char[10];
 Random random= new Random();
 for (int i = 0; i < mas.GetLength(0); i++)
